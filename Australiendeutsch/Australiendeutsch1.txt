@@ -1,0 +1,187 @@
+	0001	MC	Ja, ähm, können Sie uns vielleicht erst einmal ein Bild beschreiben? Können Sie uns sagen, was Sie auf diesem Bild sehen?
+Optionen für diese Transkriptzeile
+0002	HK	Das is' eine australische Landschaft, ja? Mit äh ((…)) großen Bäumen, wahrscheinlich Gummibäume, ja, eucalypten und eine Herde Schafe und einer der, die Schafe hütet auf‘ n Pferd wo der treiben tut. Das is' ja nich' weiter viel zu beschreiben.
+Optionen für diese Transkriptzeile
+0003	MC	Ah, was für ein Mann ist es denn?
+Optionen für diese Transkriptzeile
+0004	HK	Wie?
+Optionen für diese Transkriptzeile
+0005	MC	Was für ein Mann ist das auf dem Pferd?
+Optionen für diese Transkriptzeile
+0006	HK	Ja, das wird, is' schlecht zu sagen. Das kann ein Boundary Rider sein oder
+Optionen für diese Transkriptzeile
+0007	MC	Ja.
+Optionen für diese Transkriptzeile
+0008	HK	ob's der Eigentümer is' von den Schafen oder es kann auch der, ein Arbeiter sein.
+Optionen für diese Transkriptzeile
+0009	MC	Und äh, wie unterscheidet sich diese Landschaft von der Landschaft hier in, in Bethany? Ist sie sehr verschieden? Od-
+Optionen für diese Transkriptzeile
+0010	HK	Augenscheinlich ist das mehr eine Landschaft in, in äh ((…)) in Neusüdwales oder Queensland.
+Optionen für diese Transkriptzeile
+0011	MC	Wie ist die Landschaft hier herum? Im, im Barossatal?
+Optionen für diese Transkriptzeile
+0012	HK	Ja, hierum is' es eben im Winter nur grün und dann wird das Glas, Gras trocken im Sommer. Aber trotzdem is' es doch nahrhaft, wenn's auch trocken ist.
+Optionen für diese Transkriptzeile
+0013	MC	Ja. Was wird hier am meistens hier gemacht auf äh, auf dem Lande hier im Barossatal?
+Optionen für diese Transkriptzeile
+0014	HK	Ja, in den Bergen natürlich, das is' nur für Weide, aber hier unten, die haben ja gesehen, dass es alles Weingärten und Obstgärten.
+Optionen für diese Transkriptzeile
+0015	MC	Äh, was machen Sie hier herum zum Beispiel. Was- können Sie uns vielleicht einen Tag beschreiben. Wie es hier, äh, was Sie hier machen während des Tages?
+Optionen für diese Transkriptzeile
+0016	HK	Well, ich wer' mal anfangen bisschen von ((…)) von nu- es dauert ja nich' mehr lange, dann wird die Weinernte kommen.
+Optionen für diese Transkriptzeile
+0017	MC	Ah ja.
+Optionen für diese Transkriptzeile
+0018	HK	Dann wird die, die Weinschnitter, die schneiden denn diese Trauben ab auf in, auf'm Trock, was wir Motor, und das wird dann nach den Kellern gefahren und äh ((…)) das dauert ungefähr so'n etwas über drei Monate ungefähr in- bis die Weinernte vorüber is'.
+Optionen für diese Transkriptzeile
+0019	MC	Äh, hier ist ja ein Weinfest, nicht wahr?
+Optionen für diese Transkriptzeile
+0020	HK	Ja, ja.
+Optionen für diese Transkriptzeile
+0021	MC	Wie, was wird denn da gemacht, was ((…))?
+Optionen für diese Transkriptzeile
+0022	HK	Och, die Leute komm' zusammen da und da haben se, ich weiß ja nicht wie sie die auf deutsch nenn' aber man hat das nie gehört in Deutsch, das is' diese Floats und die verschiedene, wie se auch in Adelaide haben hier wenn des ((…)) John Martins ihre Christmas Floats haben.
+Optionen für diese Transkriptzeile
+0023	MC	Und ähm, können Sie uns vielleicht dieses Bild beschreiben?
+Optionen für diese Transkriptzeile
+0024	HK	Is' das von Sydney?
+Optionen für diese Transkriptzeile
+0025	MC	Ähm, ich glaube, das ist Adelaide, aber es macht ja nichts.
+Optionen für diese Transkriptzeile
+0026	HK	Na, das sieht mir nicht sehr aus wie Adelaide ((…)) Es kann doch sein ((…)) King William Street, ja, ja.
+Optionen für diese Transkriptzeile
+0027	MC	Was sehen Sie so da? Können Sie uns vielleicht sagen, was Sie da ((…))
+Optionen für diese Transkriptzeile
+0028	HK	Ja, da is' dieses hier ((…)) Versicherungsgesellschaft, Lebensversicherungsgesellschaft ((…)) und früher, früher ging ja diese elektrische Ba- trams da lang. Jetzt haben sie die alles diese motor- buses.
+Optionen für diese Transkriptzeile
+0029	MC	Ah ja. Was, was sind denn das hier, diese kleinen Sachen hier?
+Optionen für diese Transkriptzeile
+0030	HK	Das sind Automobile.
+Optionen für diese Transkriptzeile
+0031	MC	Ah ja. Und ((…)) ähm ((…)) wie, wie gefällt Ihnen das Stadtleben? Leben, Sie leben wahrscheinlich lieber auf dem Lande als in der Stadt.
+Optionen für diese Transkriptzeile
+0032	HK	Hin und wieder, da geh' ich ganz gern ma runter aber, aber ich würde nie mögen da wohnen.
+Optionen für diese Transkriptzeile
+0033	MC	Was machen Sie so, äh, während des Tages oder während des Abends hier auf dem Lande. Äh, wenn, wie, was wäre Ihr Programm, sagen wir auf einem Abend wenn Sie hier zu Hause sind? Was ma- was
+Optionen für diese Transkriptzeile
+0034	HK	Das is' gewöhnlich, wenn ma, ich bin ja nur schon, schon alter, älter.
+Optionen für diese Transkriptzeile
+0035	MC	Oh ((…)) Sie schauen nicht sehr alt aus aber. ((Lachen))
+Optionen für diese Transkriptzeile
+0036	HK	Aber sonst da, da is' bis die Abendarbeit getan is', dann, das Abendessen und dann hat man eine hier ((…)) Stun- oder ne Stunde vielleicht noch in der Familie zu Haus' und denn geht man zu Bett. Man braucht eben ganz Teil Schlaf wenn einer körperlich arbeiten tut.
+Optionen für diese Transkriptzeile
+0037	MC	Oh ja, sicher.
+Optionen für diese Transkriptzeile
+0038	SM	Man steht ganz früh auf oder?
+Optionen für diese Transkriptzeile
+0039	HK	Ja, ich geh', steh' gewöhnlich auch heut' noch um, um sechs Uhr frühs auf. Und dann is' mein Amt is' hier dann's Feuer zu machen und dann ((…)) wenn die Frau kommt und dann macht's Frühstück zurecht.
+Optionen für diese Transkriptzeile
+0040	MC	Äh, sprechen Sie noch viel Deutsch zu Hause?
+Optionen für diese Transkriptzeile
+0041	HK	Mit de Frau und mit mein Sohn hier sprech' ich nur fast Deutsch, nur Deutsch, ja.
+Optionen für diese Transkriptzeile
+0042	MC	Wie alt ist denn Ihr Sohn?
+Optionen für diese Transkriptzeile
+0043	HK	Der is', in, der's vierzig.
+Optionen für diese Transkriptzeile
+0044	MC	Ah ja. Aber, hat er auch schon Kinder, oder ((…))?
+Optionen für diese Transkriptzeile
+0045	HK	Ja, der hat drei.
+Optionen für diese Transkriptzeile
+0046	MC	Und die, die sprechen auch Deu- Versteh'n die auch Deutsch?
+Optionen für diese Transkriptzeile
+0047	HK	Nein, die sprechen, seine Frau sie kann eben nicht mehr Deutsch, trotzdem, dass sie von deutscher Herkunft is'.
+Optionen für diese Transkriptzeile
+0048	SM	Sie kann es verstehen aber?
+Optionen für diese Transkriptzeile
+0049	HK	Nein, nein, die kann nicht verstehen. Hin und wieder vielleicht 'n Wort. Wo sich Leute so, so wundern drüber, dass se, ich war mal auf‘ ne‘ ne Reise nach Alice Springs rauf und da waren mit einmal, da war'n Deutsche da und denn ging ich auch in die Unterhaltung rein, Haltung mitan, denn sagten sie:" Wie lange sind Sie denn schon hier im Lande?" Oh, ich sagte, ich bin hier geboren, und mein Vater, der ist auch schon hier geboren vor, vor über hundert Jahr. Da konnten sie nicht ausmachen. Aber das is' eben hier in diesem district.
+Optionen für diese Transkriptzeile
+0050	MC	Ja. Haben Sie in der Schule Deutsch gelernt?
+Optionen für diese Transkriptzeile
+0051	HK	Ja, wo i-, das war eine Gemeindeschule.
+Optionen für diese Transkriptzeile
+0052	MC	Da haben Sie Englisch und Deutsch Unterricht gehabt?
+Optionen für diese Transkriptzeile
+0053	HK	Ja. Vormittag war Deutsch und Nachmittag Englisch und das Ganze ((…)) richtig, die ganze perfekt gelernt: Grammatik, Schreiben, Schönschreiben, Diktat und dann natürlich Religionsunterricht. Und der Nachmittag war dann Englisch, die englischen ((…))
+Optionen für diese Transkriptzeile
+0054	MC	Was haben Sie, welche Fächer haben Sie auf Englisch gelernt?
+Optionen für diese Transkriptzeile
+0055	HK	Oh, was alles die, was sie sonst in die, die Schulen lern'.
+Optionen für diese Transkriptzeile
+0056	MC	Ah ja. Aber nicht dieselben Fächer wie auf Deutsch?
+Optionen für diese Transkriptzeile
+0057	HK	Ja,
+Optionen für diese Transkriptzeile
+0058	MC	Auch dieselben Fächer?
+Optionen für diese Transkriptzeile
+0059	HK	Dikta- dictation and grammar, reading and of course arithmetic and that was in the, das war ja dasselbe als wie in ((…)) aber ((…)) and then geography, die haben die Zeit wo ich bin in die Schule gegangen, haben wir Geographie besser gelernt als wie se heutzutage tun.
+Optionen für diese Transkriptzeile
+0060	MC	Oh, das kann ich mir vorstellen! Ja. Lesen Sie auch deutsch?
+Optionen für diese Transkriptzeile
+0061	HK	Ja, ja. Aber, ma ich hab', hab nicht zu viel Zeit because das die Zeitungen alles, das is' ja n Deutsch äh, Englisch aber ich hab' ein ganzen Haufen deutsche Bücher, die ((…))
+Optionen für diese Transkriptzeile
+0062	MC	Was für deutsche Bücher ha- äh, ha-
+Optionen für diese Transkriptzeile
+0063	HK	Von Amerika die Abendschul'. Und dann ((…))
+Optionen für diese Transkriptzeile
+0064	MC	Das war amerikanisch, nicht wahr?
+Optionen für diese Transkriptzeile
+0065	HK	Ja. Und den Kalender, hier diese Aurich ((…)) was wir Aurichts Kalendar war'n. Jedes Jahr kam der heraus, da war'n deutsche Geschichten drin. Und denn noch eins in der Schule wo wir deutsch lesen lernten das war, das erste Buch war ja die Fibel, war ja klein. Denn, danach war, ich glaube das hieß:" Das zweite Lebensbilder", da wa'n kleine Geschichten und so was drin und denn das dann dickes Buch:" Erste Lebensbilder", und das war nun von in Deutschland gedruckt und da war denn diese ((…)) Natur, die Geschichte von Deutschland alles hab' ich gelernt von, gelesen da und auch behalten von Kaiser Karl der Große. Als Kaiser Karl zur Schule kam und wollte visitieren. Der prüfte scharf das kleine Volk im Rechnen Buchstabieren(?), und da war'n Gedichte drin und denn auch sonst Geschichten und denn Naturgeschichte.
+Optionen für diese Transkriptzeile
+0066	MC	What part of Germany did your forefathers come from?
+Optionen für diese Transkriptzeile
+0067	HK	Von Schlesien. Und die haben natürlich ((…)) Ich kann den schlesischen Dialekt, den kann ich eben auch noch, glaub ich.
+Optionen für diese Transkriptzeile
+0068	MC	Oh ja?! Wie, können Sie etwas auf Schlesisch sagen? Können Sie vielleicht dieses Bild auf Schlesisch beschreiben?
+Optionen für diese Transkriptzeile
+0069	HK	Och, das könnt' ich nur kaum mehr.
+Optionen für diese Transkriptzeile
+0070	MC	Oder vielleicht dieses Bild?
+Optionen für diese Transkriptzeile
+0071	HK	Oh no, nein, das kann ich nicht. Aber von Gedichte in die Kalender zum Beispiel. ((rezitiert ein Gedicht)) Wenn einer so sprechen würde, das würde hier gar nicht ganz versteh'n, ganz und gar.
+Optionen für diese Transkriptzeile
+0072	MC	Und ähm, wann sind denn Ihre Vorfahren‘ rausgekommen, sind die achtunddreißig, achtzehnhundertachtunddreißig gekommen? Oder ungefähr ((…))?
+Optionen für diese Transkriptzeile
+0073	HK	Das könnt ich nur nicht gar nicht mal genau sagen. Die sind nicht mit den ganz die ersten
+Optionen für diese Transkriptzeile
+0074	MC	Oh ja.
+Optionen für diese Transkriptzeile
+0075	HK	Aber bald darauf denn, aber das is' über hundert Jahr.
+Optionen für diese Transkriptzeile
+0076	MC	Und sind gleich hier nach Bethanien gekommen?
+Optionen für diese Transkriptzeile
+0077	HK	Ja, die sind gleich hier auf das; die hatten bloß zwanzig Acker hier und denn das war alles mit äh große Gummibäume, Rotgummi und Weißgum und natürlich nu hatten die kein Geld hatten sie ja nicht. Kein, konnten kein Draht kaufen und dann haben sie die Bäume ausgerodet und umgesägt und zersägt und denn immer ein Posten nach'n andern rein das in die ganze. Das war nur drei Familien, Verwandte eben. Drei, des ganze die ((…)) da' war'n zwanzig. Das sechzig Acker, alles um, ein Posten am andern, das alles auswendig‘ rum. ((…)) geschützt war von Wild.
+Optionen für diese Transkriptzeile
+0078	MC	Und ähm, gibt es sonst noch Leute mit denen Sie deutsch sprechen tun, oder ((…))?
+Optionen für diese Transkriptzeile
+0079	HK	Oh ja, das gibt's noch‘ n ganz Teil hier.
+Optionen für diese Transkriptzeile
+0080	MC	Ja, ich meine, wenn Sie mit Leuten hier herumkommen.
+Optionen für diese Transkriptzeile
+0081	HK	Ja, wenn wir zum Beispiel zur Kirche gehn ((…)) ja die- wir gehören zu die ((…)) Haben Sie die gesehen in Tanunda die mit den, die so weiter drin ist, und der hohen Turm?
+Optionen für diese Transkriptzeile
+0082	MC	Wie heißt die?
+Optionen für diese Transkriptzeile
+0083	HK	Langmeil.
+Optionen für diese Transkriptzeile
+0084	MC	Oh ja, ja, ja.
+Optionen für diese Transkriptzeile
+0085	HK	Ja, wenn wir da gehen, da sind‘ ne ganze Anzahl, die wohl ganz Deutsch sprechen tun.
+Optionen für diese Transkriptzeile
+0086	MC	Und haben Sie noch Gottesdienste auf Deutsch?
+Optionen für diese Transkriptzeile
+0087	HK	Nein, nein. Für, nur für die, für die Deutsch- Australier da is' vielleicht mal Abendmahlsfeier paar mal's Jahr.
+Optionen für diese Transkriptzeile
+0088	MC	Das ist für die Neuaustralier?
+Optionen für diese Transkriptzeile
+0089	HK	Ja, ja. Die wird kaum besucht von andern dann.
+Optionen für diese Transkriptzeile
+0090	MC	Ja, es ist sehr interessant, dass es so viele Leute hier herum gibt die, die schon äh, die schon fünfte, vierte oder dritte Generation sind und die noch deutsch sprechen können.
+Optionen für diese Transkriptzeile
+0091	HK	Ja. Dieses ist ja, das nächste Haus, das ist die, wo wer, die ersten ihr Haus gebaut haben. Und das andere Material, das erste wie wir sind‘ rausgekommen, da hatten sie bloß zwei Stämme ((…)) die sie umgestellt und zwei daneben und diese, diese Rafters reingemacht, Balken und denn mit Stroh und Gras gedeckt und da wohnten wir drin ((…)) dann haben wer wieder nen, eine Stube gebaut und‘ n Keller unter, das war dann schon von Stein gebaut.
+Optionen für diese Transkriptzeile
+0092	SM	Das Haus steht noch?
+Optionen für diese Transkriptzeile
+0093	HK	Nein, das is' alles weggerissen, aber das andere das is' über hundert Jahr alt, der u- ursprüngliche Bau. Das haben sie die Ziegeln selber gebrannt und gebaut mit Lehm. Und das steht heut noch da, dass is' kein Riss und nichts drinne. Und, dennoch später haben sie mit Steine, Steine gebrochen und denn aufgebaut und das Holz mit äh, von Rotgummi oben in die Berge die Bäume umgesägt und denn zusammgesch ((…)) und kein, kein Nagel drin,‘ s bloß Loch gebohrt.
+Optionen für diese Transkriptzeile
+0094	MC	Ja, also, vielen Dank.

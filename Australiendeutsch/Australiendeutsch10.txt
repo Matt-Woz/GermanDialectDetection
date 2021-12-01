@@ -1,0 +1,307 @@
+	LS	((???)) What is that for?
+Optionen für diese Transkriptzeile
+0002	MC	Vielleicht könnten Sie uns dieses Bild beschreiben. Können Sie uns sagen, was Sie auf dem Bild sehen?
+Optionen für diese Transkriptzeile
+0003	LS	Ob ich das Bild beschreiben kann? Na ja, das is doch ein Reiter mit ((…)) mit eine Herde Schafe.
+Optionen für diese Transkriptzeile
+0004	MC	Ja. Und was macht er mit dieser, mit dieser Schafherde?
+Optionen für diese Transkriptzeile
+0005	LS	Äh ((…)) ich weiß ja nich' wo er sie hintreibt. Ich weiß nich' wo er sie hintreibt und was er macht.
+Optionen für diese Transkriptzeile
+0006	MC	Was sehen Sie sonst noch auf dem Bild?
+Optionen für diese Transkriptzeile
+0007	LS	Bäume?
+Optionen für diese Transkriptzeile
+0008	MC	Ja, was für Bäume?
+Optionen für diese Transkriptzeile
+0009	LS	Bäume und Gras.
+Optionen für diese Transkriptzeile
+0010	MC	Wissen Sie was für Bäume das sind? Was für Bäume sind das?
+Optionen für diese Transkriptzeile
+0011	LS	Was die Bäume sind?
+Optionen für diese Transkriptzeile
+0012	MC	Ja. Was für Bäume, was für Sorten?
+Optionen für diese Transkriptzeile
+0013	LS	Das sind gewöhnliche ((…)) sind das australische Bäume?
+Optionen für diese Transkriptzeile
+0014	MC	Ja ich glaube.
+Optionen für diese Transkriptzeile
+0015	SM	Sie haben solche Bäume um herum, nicht wahr? In dieser Gegend?
+Optionen für diese Transkriptzeile
+0016	LS	Das sind keine Whitegum, das sind ((…)) weiß gar nicht was das sein soll. ob's Redgum is' or ((…))
+Optionen für diese Transkriptzeile
+0017	SM	Oh, das macht nichts.
+Optionen für diese Transkriptzeile
+0018	LS	Wie?
+Optionen für diese Transkriptzeile
+0019	SM	Das macht nichts. Sie wissen das ist ein ein Gum, nicht wahr?
+Optionen für diese Transkriptzeile
+0020	LS	Yeah, that's a kind a gum, yes ((…)) that's what it is. Und da hinten das sind Busch. Das sind Schrubs ((…)) ähm ((…)) wie man Schrubs nennt. Ach wie nennt man die denn? Das sind Büsche,
+Optionen für diese Transkriptzeile
+0021	MC	Dankeschön.
+Optionen für diese Transkriptzeile
+0022	LS	Das sind kleine Büsche.
+Optionen für diese Transkriptzeile
+0023	MC	Äh, sieht die Landschaft auf diesem Bild so ähnlich aus wie die Landschaft hier herum?
+Optionen für diese Transkriptzeile
+0024	LS	O, warum nich'? Ja ((…)) is' grüner hier wird's auch grün sein wenn Regen fällt. Dann wird's ebenso sein.
+Optionen für diese Transkriptzeile
+0025	MC	Äh, haben Sie immer hier in Tanunda gewohnt?
+Optionen für diese Transkriptzeile
+0026	LS	Wie?
+Optionen für diese Transkriptzeile
+0027	MC	Haben Sie immer hier in Tanunda gewohnt?
+Optionen für diese Transkriptzeile
+0028	LS	Oh no. Ich hab äh ((…)) ich war geboren draußen in ((…)) Gomersaul, was se jetzt Gomersaul nenn'n New Mecklenburg, New Mecklenburg nannten es damals.
+Optionen für diese Transkriptzeile
+0029	MC	Sprechen Sie auch Plattdeutsch?
+Optionen für diese Transkriptzeile
+0030	LS	Wie?
+Optionen für diese Transkriptzeile
+0031	MC	Sprechen Sie auch Plattdeutsch?
+Optionen für diese Transkriptzeile
+0032	LS	Äh, mitunter 'n Wort dabei. Ich kann nich', no, ich kann nicht Platt ((…)) aber ich kann ein paar Wörter ((…)) kann ich so mitunter reinbringen als Spaß. Bring ich so rein, ja. Kann ja nicht schneller auf solche denken.
+Optionen für diese Transkriptzeile
+0033	MC	Wie ist die Gegend um äh, um Schönborn oder wie, wie heißt es?
+Optionen für diese Transkriptzeile
+0034	SM	Um Giomersal, nein nein, Meck-
+Optionen für diese Transkriptzeile
+0035	LS	Wie die Gegend da ist?
+Optionen für diese Transkriptzeile
+0036	MC	Wie ist Neu- Mecklenburg? Ja. Wie ist die Gegend dort?
+Optionen für diese Transkriptzeile
+0037	LS	Jau ((…)) Das is auch so ähnlich wie das da ((…)) grüne Felder ((…)) und bisschen hat Busch und Bäume.
+Optionen für diese Transkriptzeile
+0038	SM	Und was machen die Leute dort?
+Optionen für diese Transkriptzeile
+0039	LS	Oh ((…)) die säen, sie säen Weizen, sie säen Gerste, und ((…)) und ähm ((…)) wie heißt das and're? ((…)) Gerst- oats ((…)) Hafer. Man muss ja denken man is' nich' mehr deutsch man is' nich' englisch. Und da is' man aufgemixt. Da bringt man in das Deutsche bringt man englische Wörter rein und in's Englische bringt man deutsche Wörter rein. Man is' nich' deutsch, man is nich' englisch.
+Optionen für diese Transkriptzeile
+0040	MC	Können wir vielleicht ein bisschen English sprechen jetzt? Eh, could you tell me what part of Germany your forefathers came from?
+Optionen für diese Transkriptzeile
+0041	LS	What part of Germany?
+Optionen für diese Transkriptzeile
+0042	MC	Yes, your forefathers came from?
+Optionen für diese Transkriptzeile
+0043	LS	Oh, that I couldn't tell you. I couldn't tell you that.
+Optionen für diese Transkriptzeile
+0044	MC	I see. But, eh, would they have come from Mecklenburg? Since the place was named after that.
+Optionen für diese Transkriptzeile
+0045	LS	No. Das weiß ich nich'.
+Optionen für diese Transkriptzeile
+0046	MC	And, ehm, what about, ehm, the area around here. Has it changed a lot in the last, well, in the last years since you where young? Since you were a child.
+Optionen für diese Transkriptzeile
+0047	LS	Oh yes, it changed a lot especially the people. The people have changed a lot but er, as for the land well ((…))
+Optionen für diese Transkriptzeile
+0048	MC	Eh, which way did people change?
+Optionen für diese Transkriptzeile
+0049	LS	For the bad.
+Optionen für diese Transkriptzeile
+0050	MC	I see.
+Optionen für diese Transkriptzeile
+0051	LS	For the bad.
+Optionen für diese Transkriptzeile
+0052	MC	Yeah, how come?
+Optionen für diese Transkriptzeile
+0053	LS	Yes.
+Optionen für diese Transkriptzeile
+0054	SM	How, in what way?
+Optionen für diese Transkriptzeile
+0055	LS	Gottlos. Yes, Leute gottlos ((…)) Ha ((…)) That` s what I got to say. In our time we used to go ((…)) we had our dances too but very innocent dances. We used to go out to the country and have a ((…)) dance in the night in the dark night we used to go but I don` t know how we found along, we found along to the people's places out on the farm through paddocks and everything we went. And we went to dances an' there was no drink, no, we didn't drink. But now its all ((…)) drink, get drunk and ((…)) all that sort of thing, you know yourself. It's true, it's true, it wasn't in our time.
+Optionen für diese Transkriptzeile
+0056	M1	What about the Federschleißen?
+Optionen für diese Transkriptzeile
+0057	LS	Oh, yeah. That was nice too, Federschleißen, yes.
+Optionen für diese Transkriptzeile
+0058	MC	Können Sie uns sagen was das war? Was war das Federschleißen?
+Optionen für diese Transkriptzeile
+0059	LS	Oh, well, der Tisch der war voller Federn ((…)) ein großer Haufen Federn. Und da saßen wir alle rum um‘ n Tisch und schnackten wie die Gänse da. Und da schlissen wir und wenn das fertig war wenn's kam um zehne, elfe denn gab's supper. See, da's wieder 'n englisches Wort. Wie soll ich` s denn anders nenn'?
+Optionen für diese Transkriptzeile
+0060	MC	Macht nichts.
+Optionen für diese Transkriptzeile
+0061	LS	Supper. Dann gab's supper ((…)) und denn haben wir supper gehabt and then they used to go out an', an' play outside in the perhaps a moonlight night and have games quite innocent, quite innocent. ((???)) huh?
+Optionen für diese Transkriptzeile
+0062	M1	One's and two's.
+Optionen für diese Transkriptzeile
+0063	M1	One's and two` s.
+Optionen für diese Transkriptzeile
+0064	LS	Yes
+Optionen für diese Transkriptzeile
+0065	M1	Dropping the handerkerchief.
+Optionen für diese Transkriptzeile
+0066	LS	All sorts of games but we were quite innocent in all our doings but what is it now? What is it now? ((…)) They have drink ((…)) I wouldn't like to say anymore. There's nothing but drink. They get drunk and they don't know what they're doing at last. Absolutely, that's true. That's true, but our times were innocent, very innocent. We young people we ((…)) that was quite ((…)) different. Quite different to what ((…)) it's now. Everything is ((…)) it's going to a finish. It's going to a finish.
+Optionen für diese Transkriptzeile
+0067	MC	Und, äh, können Sie uns vielleicht sagen, ähm, wie es in der, in der Schule war? Sie- Gingen Sie in eine Gemeindeschule? ((???))
+Optionen für diese Transkriptzeile
+0068	LS	Ja, es war‘ ne Gemeindeschule erst aber ich glaube nachher is es‘ ne and're Schule geworden. Ja, die ha'm se ((…)) nacher war es wohl 'ne Public School geworden.
+Optionen für diese Transkriptzeile
+0069	MC	Äh, Sie haben Deutsch, Sie haben dort Deutsch gelernt?
+Optionen für diese Transkriptzeile
+0070	LS	Wie?
+Optionen für diese Transkriptzeile
+0071	MC	Haben Sie dort Deutsch gelernt?
+Optionen für diese Transkriptzeile
+0072	LS	Ja, wir hatten‘ ne ((…)) äh ((…)) 'ne halbe Stunde, glaube ich oder so hatten wir morgens ((…)) hatten wir Deutsch und denn Englisch. Aber wir Kinder wir sprachen alles Deutsch, wir sprachen alles Deutsch.
+Optionen für diese Transkriptzeile
+0073	MC	Und, äh, sprachen Sie untereinander immer Deutsch, also-?
+Optionen für diese Transkriptzeile
+0074	LS	Yes, yes. Oh, es war schwer für uns wie der Krieg ausbrach und es hieß Englisch sprechen. Es war schwer für uns. Wir konnten's nich'.
+Optionen für diese Transkriptzeile
+0075	MC	Äh, und haben Sie alle Fächer auf Deutsch gelernt? In der Schule, alle Fächer?
+Optionen für diese Transkriptzeile
+0076	LS	Alle was?
+Optionen für diese Transkriptzeile
+0077	MC	Fächer. Haben Sie alles auf Deutsch gelernt in der Schule?
+Optionen für diese Transkriptzeile
+0078	LS	Ja, alle. Alle ((…)) Kinder.
+Optionen für diese Transkriptzeile
+0079	MC	Ja. Nein, ich meine gelernt. Haben Sie Geographie und so weiter, alle diese Fächer, haben Sie die auf deutsch gelernt oder auf englisch.
+Optionen für diese Transkriptzeile
+0080	LS	Ja, aber äh, bloß‘ ne gewisse Zeit.‘ Ne gewisse Zeit gab uns der Lehrer, er war selber ((…)) er war'n Barntrup Barntrup war sein Name. Das war'n, äh, noch ein ganz deutscher Name. Er mußte denken, erkam auch von Deutschland. Ich weiß nicht. Äh, nun ((…)) you got the picture there where he is on. Yeah
+Optionen für diese Transkriptzeile
+0081	MC	Und ähm ((…)) Ihre Eltern sind schon dort in, in Neumecklenburg ge- geboren? Sie sind nicht aus Deutschland gekommen, die Eltern?
+Optionen für diese Transkriptzeile
+0082	LS	Das hab ich nich' ganz gekriegt. Ich, ich hör' nich.
+Optionen für diese Transkriptzeile
+0083	SM	Ihre Eltern waren, sind in, in Neumeck- Neumeck oder Neu?- Neumecklenburg geboren?
+Optionen für diese Transkriptzeile
+0084	LS	No meine Mutter, die kam wohl auch von Deutschland.
+Optionen für diese Transkriptzeile
+0085	MC	Wissen Sie aus welchem Teil von Deutschland?
+Optionen für diese Transkriptzeile
+0086	LS	Ich dachte, sie ha- sagte mal Berlin. Ja, und äh, aber ich weiß nich wo sie geboren is' ob sie auf ((…)) auf'm Wege gebor'n ist oder ob sie da drüben geboren ist, das weiß ich gar nicht. Das kann ich nich' behaupten.
+Optionen für diese Transkriptzeile
+0087	MC	Und Ihr Vater ist in Deutschland geboren, oder?
+Optionen für diese Transkriptzeile
+0088	LS	Das kann ich auch nich' beweisen. Das kann ich nicht beweisen.
+Optionen für diese Transkriptzeile
+0089	M1	Just an explanation here: There were two families, the Michaels and the Berners who came out prior to the religious arrivals and they were employed by the South Australian Company and they came out in about er, July 1836 and settled on Kangaroo Island and were there‘ til about 1840. So they were a different group of people than the rest that you have up here.
+Optionen für diese Transkriptzeile
+0090	MC	Oh, I see ((…))
+Optionen für diese Transkriptzeile
+0091	M1	As far as er, why they came to Australia
+Optionen für diese Transkriptzeile
+0092	MC	Eh what, what family do you ((???)) I mean, do you
+Optionen für diese Transkriptzeile
+0093	M1	Eh ((…)) Auntie Dickens is my deceased Grandmothers sister.
+Optionen für diese Transkriptzeile
+0094	MC	I see, but I mean, what was the family name?
+Optionen für diese Transkriptzeile
+0095	M1	Michael.
+Optionen für diese Transkriptzeile
+0096	MC	Oh, I see ((…))
+Optionen für diese Transkriptzeile
+0097	M1	Michael.
+Optionen für diese Transkriptzeile
+0098	MC	Oh, I see ((…)) Und, ähm, sind sie oft in die Stadt gekommen?
+Optionen für diese Transkriptzeile
+0099	LS	Wie?
+Optionen für diese Transkriptzeile
+0100	MC	Sind sie oft i- nach Adelaide gekommen? Äh, ich glaube jetzt ist das ((???)) aber es macht nichts. Äh, sind sie oft in die Stadt gekommen? ((…)) nach Adelaide?
+Optionen für diese Transkriptzeile
+0101	LS	No, wir haben ja doch draußen in Neumecklenburg gewohnt.
+Optionen für diese Transkriptzeile
+0102	MC	Ah ja. Aber sind nicht die, nicht oft in die Stadt gefahren?
+Optionen für diese Transkriptzeile
+0103	LS	Och no, och no, och no. I- Das bin ich erst nach Adelaide wie ich verheirat' war, da bin ich oft nach Adelaide gefahren mit die Train.
+Optionen für diese Transkriptzeile
+0104	MC	Wenn Sie nicht mit die Train äh ((…)) hinfahren, wie könnten Sie sonst noch fahren? Wie könnten Sie sonst noch nach Adelaide fahren? Aus-
+Optionen für diese Transkriptzeile
+0105	LS	O, meistens alles by Train, ich glaub wir sind höchst selten, wir haben erst später hin in die spätere Jahre‘ ne Car gekauft. Dann sind wir eben paar Mal selber gefahren. Aber sonst, alles by Train, alles by ((…)) wie sagt man da auf deutsch? Bahn?
+Optionen für diese Transkriptzeile
+0106	MC	Ja, ja. Und äh, ähm, haben Sie eine große Familie hier? Haben Sie viele Verwandte?
+Optionen für diese Transkriptzeile
+0107	LS	In Adelaide?
+Optionen für diese Transkriptzeile
+0108	MC	Nein, hier in der, hier in der Gegend.
+Optionen für diese Transkriptzeile
+0109	LS	Hier herum, och ja. Allerlei. A ja, da hat man schon Verwandte.
+Optionen für diese Transkriptzeile
+0110	SM	Und wie viele Kinder?
+Optionen für diese Transkriptzeile
+0111	LS	Wie viel Kinder?
+Optionen für diese Transkriptzeile
+0112	SM	Mm ((…))
+Optionen für diese Transkriptzeile
+0113	LS	Bloß eins, bloß ein, ein Sohn.
+Optionen für diese Transkriptzeile
+0114	MC	Und haben Sie von dieser Seite viele an- äh, andere Verwandten? Haben Sie äh, hat Ihr Kind auch Kinder?
+Optionen für diese Transkriptzeile
+0115	LS	Wir zu Hause wir war'n ja ((…)) wir war'n äh ((…)) achte eigentlich in die Familie aber ich habe nur eins und äh ((…)) die andere Geschwister die hatten ja mehr.
+Optionen für diese Transkriptzeile
+0116	SM	Und Ihr Sohn, er hat Kinder? Ihr Sohn, er hat Kinder gehabt?
+Optionen für diese Transkriptzeile
+0117	LS	Der hat eine Tochter.
+Optionen für diese Transkriptzeile
+0118	SM	Ah ja. Sie spricht Deutsch?
+Optionen für diese Transkriptzeile
+0119	LS	Wie?
+Optionen für diese Transkriptzeile
+0120	SM	((???)), Ihr Enkeltochter.
+Optionen für diese Transkriptzeile
+0121	LS	Äh äh, das is' ne Tochter. Der hat 'ne Tochter.
+Optionen für diese Transkriptzeile
+0122	MC	Ja.
+Optionen für diese Transkriptzeile
+0123	SM	Ja, und
+Optionen für diese Transkriptzeile
+0124	MC	Spricht die Tochter von ihm Deutsch? Und, versteht die Deutsch?
+Optionen für diese Transkriptzeile
+0125	LS	Versteht sie Deutsch? No, no, die is' ganz englisch.
+Optionen für diese Transkriptzeile
+0126	SM	Aber Ihr Sohn, er er musste deutsch gesprochen ((…))
+Optionen für diese Transkriptzeile
+0127	LS	Der kann, der kann Deutsch ja. Oh ja.
+Optionen für diese Transkriptzeile
+0128	SM	Aber Sie, Sie sprechen nicht deutsch mit Ihren Sohn?
+Optionen für diese Transkriptzeile
+0129	LS	Oh ((…)) hin und wieder mal. Ja, hin und wieder mal. Er is eben auch immer unter englische Leute und äh ((…)) wir sind natürlich ganz deutsch worden wie wir nach Tanunda kamen. Wir haben ((…)) über vierzig Jahr in Freeling gewohn. Und da wie der Krieg ausbrach, da hieß es " englisch sprechen". Da hieß es" englisch sprechen". Da mussten alle englisch sprechen und wie wir nach Tanunda kamen ((…)) och, da sprachen ja alle Leute, alle deutsch, Leute deutsch. Wenn ich englisch sprach zu die, da taten sie mir in Deutsch antworten. Da sind wir ganz deutsch geworden hier ((…)) in uns'e alten Tage ((…)) ja, ja, ja. So veränderlich.
+Optionen für diese Transkriptzeile
+0130	MC	Was machen Sie während des Tages hier. meistens? Was machen Sie während des Tages hier?
+Optionen für diese Transkriptzeile
+0131	LS	Ich? Was ich mach'? Hat's nich Arbeit? Hat's nich plenty Arbeit?
+Optionen für diese Transkriptzeile
+0132	MC	Ja. Was für Arbeit machen Sie denn?
+Optionen für diese Transkriptzeile
+0133	LS	Ah ((…)) Stuben, da sind die Stuben und da is' Garten und es geht nich mehr so schnell, ja, geht immer langsamer.
+Optionen für diese Transkriptzeile
+0134	MC	Und, wie ist es am Abend dann, nach dem Abendessen, was mach-
+Optionen für diese Transkriptzeile
+0135	LS	Ja, ja, ja, ja. Da sitzen wir jetzt, wenn's ((…)) wenn's heiß is', da sitzen wir draußen und ähm ((…)) das is' mein Mann da, wie er jung war. Und da ((…)) Wenn's denn achte, halb neune kommt, dann geht's zu Bett. Jeder is' froh wenn er kann seine Knochen ruhn. Ja, ja, ja, ja das geht nich mehr so forsch.
+Optionen für diese Transkriptzeile
+0136	MC	Lesen Sie noch deutsch?
+Optionen für diese Transkriptzeile
+0137	LS	Wie?
+Optionen für diese Transkriptzeile
+0138	MC	Lesen Sie noch deutsch?
+Optionen für diese Transkriptzeile
+0139	LS	O ja.
+Optionen für diese Transkriptzeile
+0140	SM	Aber lesen Sie auch english?
+Optionen für diese Transkriptzeile
+0141	LS	Oh ja, ich sollte mein'n.
+Optionen für diese Transkriptzeile
+0142	SM	Lesen Sie besser deutsch oder englisch?
+Optionen für diese Transkriptzeile
+0143	LS	Well, man lest doch das ((…)) man hat doch das meiste englisch. Ja, das Deutsche, das, das fällt ja immer mehr weg.
+Optionen für diese Transkriptzeile
+0144	SM	Ja. Lesen Sie die Bibel auf Deutsch oder auf Engli-
+Optionen für diese Transkriptzeile
+0145	LS	Oh ((…)) wenn's gerade mal passt, ich hab' am anderen Tag gesagt, ich werde mir die deutsche Bibel holen statt die englische. Dann ((…)) Die hab'n so' ne komische Wörter da drin. Die ka' ma' ni' ausprechen ((…)) da will die Zunge nich mehr. Oh, no. Da hat man lieber sein äh ((…)) altes Buch ((…)) und denn die Schrift, denn kommt's auf die Schrift drauf an. Wenn die Schrift gut is ((…)) kann man gut seh'n ((…)) die Augen nich' mehr sehen ((…)) ja, ja ((…)) geht alles rückwärts. Ja, wenn man neunundsiebzig geworden is',
+Optionen für diese Transkriptzeile
+0146	MC	Oh, Sie sehen nicht wie neunundsiebzig aus.
+Optionen für diese Transkriptzeile
+0147	LS	Neunundsiebzig. Da geht alles rückwärts, ich kann Ihnen versichern. Wenn Sie dahin kommen, da werden Sie auch merken, da werd'n Se an mir denken.
+Optionen für diese Transkriptzeile
+0148	MC	Also, vielen Dank. Es war sehr nett von Ihnen. Sie haben uns sehr geholfen, vielen Dank.
+Optionen für diese Transkriptzeile
+0149	LS	Wie?
+Optionen für diese Transkriptzeile
+0150	MC	Thank you very much for your help.
+Optionen für diese Transkriptzeile
+0151	SM	Vi- Vielen Dank, Sie haben uns viel geholfen, geholfen.
+Optionen für diese Transkriptzeile
+0152	LS	Viel geholfen?
+Optionen für diese Transkriptzeile
+0153	SM	Ja.
+Optionen für diese Transkriptzeile
+0154	LS	Ich wüsst nicht wo ich Ihnen geholfen hab ((…))

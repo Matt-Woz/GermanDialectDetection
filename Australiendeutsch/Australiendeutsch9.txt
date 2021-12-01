@@ -1,0 +1,313 @@
+	Ähm, könnten Sie vielleicht dieses Bild auf Deutsch beschreiben?
+Optionen für diese Transkriptzeile
+0002	KL	Ja, 's ein Mann auf 'n Pferd hier und 's 'ne Herde Schafe ((…)) und Gummibäume sind hieroben und ein Krik in die Mitte ((???)).
+Optionen für diese Transkriptzeile
+0003	MC	Ähm, wie ist diese Landschaft im Vergleich zu der Gegend hier im Barossa Tal, ist sie so ähnlich, oder ((…))?
+Optionen für diese Transkriptzeile
+0004	KL	Oh ((…)) ähm, ja, ziemlich es ((…)) es is' Buschland und ähm, bissel Berge wie 's hierum is' und Schafe ha'm sie hier und ((…)) eins is' es sind nich' so viel Pferdereiter hierum heutzutage.
+Optionen für diese Transkriptzeile
+0005	MC	Ja, und, äh, können Sie uns vielleicht etwas über dieses Haus hier sagen, wann wurde das gebaut und äh ((…))?
+Optionen für diese Transkriptzeile
+0006	KL	Das alte Haus meint Ihr? Ich könnt euch nicht sagen wenn es war gebaut aber es wird wohl äh ((…)) hundert Jahre alt sein oder mehr ((…)) Hundertunddreißig können wir sagen ((…))
+Optionen für diese Transkriptzeile
+0007	MC	Wer hat es gebaut?
+Optionen für diese Transkriptzeile
+0008	KL	Well, meine Eltern hat mir sagen es war ((…)) hat ((…)) war gebaut bei äh ((…)) Vater Meier hatten sie sagen früher.
+Optionen für diese Transkriptzeile
+0009	MC	Und ähm ((…)) wieviele Generationen haben im Haus gel- gewohnt?
+Optionen für diese Transkriptzeile
+0010	KL	Well, es waren noch zwei sein gewesen von meine Leute und die Eltern bevor, bevor das.
+Optionen für diese Transkriptzeile
+0011	MC	Ähm ((…)) Wieviele Familien wohnen hier in der Gegend? Scheint sehr ((…)) eine sehr große Gegend-
+Optionen für diese Transkriptzeile
+0012	KL	In die äh ((…))
+Optionen für diese Transkriptzeile
+0013	MC	Hier herum, ja.
+Optionen für diese Transkriptzeile
+0014	KL	Das sind lang dreißig, na vierzig families ((…)) fift ((…)) about fuffzig Familien.
+Optionen für diese Transkriptzeile
+0015	MC	Und ähm, ungefähr, ja, ähm, und wann sind die 'rausgekommen hier nach Australien? Wie lange sind sie schon- ich meine die Familien- wie lang sind sie schon in Australien?
+Optionen für diese Transkriptzeile
+0016	KL	Äh ((…)) Ich würd sagen das müssen über hundert Jahre sein, weit über hundert Jahre ((…))
+Optionen für diese Transkriptzeile
+0017	AS	Quatsch, es waren weitaus mehr.
+Optionen für diese Transkriptzeile
+0018	KL	ja, es müssen weit über hundert Jahre sein.
+Optionen für diese Transkriptzeile
+0019	MC	Und die sind alle aus Schlesien gekommen, ja? Oder ((…))?
+Optionen für diese Transkriptzeile
+0020	KL	Wie war?
+Optionen für diese Transkriptzeile
+0021	MC	Sind die alle aus Schlesien gekommen? Aus Silesia, als Schlesien?
+Optionen für diese Transkriptzeile
+0022	AS	In Germany.
+Optionen für diese Transkriptzeile
+0023	KL	Meisten von Deutschland.
+Optionen für diese Transkriptzeile
+0024	AS	Ja dat is' in, Silesia is in Germany.
+Optionen für diese Transkriptzeile
+0025	MC	Wissen Sie aus welcher Gegend in Deutschland?
+Optionen für diese Transkriptzeile
+0026	KL	No, das kennt ich nicht sagen ((…))
+Optionen für diese Transkriptzeile
+0027	MC	Und ähm, haben Sie zu Hause Deutsch gehört oder haben Sie, sind Sie auch in eine Schule gegangen wo Sie Deutsch gelernt haben?
+Optionen für diese Transkriptzeile
+0028	KL	No, wir sind in eine englische Schule gegangen, aber wir haben das Deutsche äh ((…)) von unse Eltern gelernt, you know, 'n ufgewachsen.
+Optionen für diese Transkriptzeile
+0029	MC	Und äh, Sie haben zu Hause nur deutsch gesprochen, nicht englisch ((???))?
+Optionen für diese Transkriptzeile
+0030	KL	Oh, wenn wir früher zu Hause war'n, mit unse Eltern, da haben wir meistens deutsch sprechen, aber heutzutage, well, da is das äh, a bissel weggefall'n.
+Optionen für diese Transkriptzeile
+0031	MC	Wie ist das mit der nächsten Generation? Verstehen die deutsch?
+Optionen für diese Transkriptzeile
+0032	KL	Oh, die Kinder, die können so'n bissel verstehen aber ((…))
+Optionen für diese Transkriptzeile
+0033	MC	Ich glaube sie können ziemlich viel verstehen. Sie dürfen keine Geheimnisse auf Deutsch vor Ihren Kindern besprechen ((…)) Ja, und ähm ((…)) Könnten Sie uns etwas über die Industrie in dieser Gegend sagen? Was, was wird hier gemacht?
+Optionen für diese Transkriptzeile
+0034	KL	Well, ähm, es is' meistens farmerier hierum, gerade in die Gegend hierum ((…))
+Optionen für diese Transkriptzeile
+0035	MC	Äh was, was wird da gefarmeriert?
+Optionen für diese Transkriptzeile
+0036	KL	Weizen und Schafe und dann welche haben äh ((…)) Vineyard und äh ((…)) Fruchtbäume.
+Optionen für diese Transkriptzeile
+0037	MC	Was für Fruchtbäume?
+Optionen für diese Transkriptzeile
+0038	KL	Oh, 's sind nich' sehr viel ((???)) was da is' is' Aprikosen und äh ((…)) a paar Pflaumen haben se, und äh, und äh ((…)) welche haben 'n Vineyard ((…))
+Optionen für diese Transkriptzeile
+0039	AS	I think you should tell them about just that job you're working on over there that would be quite inter'resting. He's working in the big industry ((???))
+Optionen für diese Transkriptzeile
+0040	KL	Ja, wollt ihr's in Deutsch haben?
+Optionen für diese Transkriptzeile
+0041	MC	Ja, bitte.
+Optionen für diese Transkriptzeile
+0042	KL	Äh, ich arbeit' bei I. C. I. in Penreis, as quarrying, da tun se Steine tun se nach Adelaide fahren und tun se 's alles verbrenn' und es wird äh ((…)) äh ((…)) soda ash wird gemacht davon. Und das äh ((…)) State ((…)) you know, die cement works hat Leim which äh ((…)) das crown davon, das äh, und das äh feine, was herauskommt von die 'Rausmachel, das wird für ((…)) alle ((…)) Sorten gebraucht, für die Builder tun es gebrauchen, die Maurer und so, die Beinesteine und die Sand und das.
+Optionen für diese Transkriptzeile
+0043	MC	Braucht man es in dieser Gegend nur oder gibt es so viel dass man irgend Handelsboot schicken kannn?
+Optionen für diese Transkriptzeile
+0044	KL	Wie war das?
+Optionen für diese Transkriptzeile
+0045	MC	Ähm, braucht man alle diese, was Sie machen, in diese Industrie, braucht man alles hier oder schickt man etwas weg um ((…))?
+Optionen für diese Transkriptzeile
+0046	KL	Oh, d-, d- das quarrying, das se oben machen, das Steine wird alles nach Port Adelaide gerailt da tun sie das da unten haben se ihre große Factory da unten, was da gemacht.
+Optionen für diese Transkriptzeile
+0047	MC	Und, können Sie uns vielleicht einen typischen Tag beschreiben, was Sie so während des Tages an der Arbeit machen?
+Optionen für diese Transkriptzeile
+0048	KL	Was ich selber machen tue? Oh, ich fahr' ein trock da tun vor die Steine von die Quarry bis ein Crusher, es wird gecrusht dahin fahr'n, das mach'n wir 'n ganzen Tag, also ((…))
+Optionen für diese Transkriptzeile
+0049	MC	Und, was machen Sie, wann Sie nach Hause kommen?
+Optionen für diese Transkriptzeile
+0050	KL	Oh, zu Hause kommen, haben wir ein paar Kühe zu melken hier und äh ((…)) luzern tue ich wachsen und tue was die sprinklers gesetzt werd'n und, und äh ((…)) viel Hühner haben wir wohl nich', aber paar.
+Optionen für diese Transkriptzeile
+0051	AS	((???))
+Optionen für diese Transkriptzeile
+0052	KL	Ja ((…)) einer Zeit hatten wir ganze paar Hühner aber jetzt haben wir bloß ein paar vor de Haus äh ((…)) hier ((…)) und ein paar Fruchtbäume hab' ich hier vor das Haus hier, you know.
+Optionen für diese Transkriptzeile
+0053	MC	Ja, alles hier vor das Haus.
+Optionen für diese Transkriptzeile
+0054	KL	Ja, das stimmt.
+Optionen für diese Transkriptzeile
+0055	MC	Können Sie uns vielleicht dieses Bild auf Deutsch beschreiben?
+Optionen für diese Transkriptzeile
+0056	KL	Das äh ((…)) Bild hier, das is' 'ne, 'ne city or wie ((…)) und äh ((…)) ziemliche große me- Ge- Gebäude sind hier, die Straße, da fahr'n die cars und äh ((…)) buses 'rum und ((…))
+Optionen für diese Transkriptzeile
+0057	MC	Was für cars, was für Arten von cars sehen Sie da?
+Optionen für diese Transkriptzeile
+0058	KL	Was für eine Sorte?
+Optionen für diese Transkriptzeile
+0059	MC	Ja, ja.
+Optionen für diese Transkriptzeile
+0060	KL	Oh, das' so ziemlich äh ((…))
+Optionen für diese Transkriptzeile
+0061	MC	((???))
+Optionen für diese Transkriptzeile
+0062	KL	Oh, wenn das Bild Adele- Adelaide ist, dann sollt' da Holdens oben sein, die wär'n hier gemacht in äh ((…)) in dieser Stadt ((…))
+Optionen für diese Transkriptzeile
+0063	MC	Was äh ((…)) ist ((???)) der Unterschied zwischen das, sagen wir, und das und das ist etwas anderes, nicht wahr?
+Optionen für diese Transkriptzeile
+0064	AS	This is King William Street.
+Optionen für diese Transkriptzeile
+0065	KL	Ja, das is' a truck hier und das äh ((…)) denn is' 'ne Bus hier ((…))
+Optionen für diese Transkriptzeile
+0066	AS	((???))
+Optionen für diese Transkriptzeile
+0067	MC	((???)), gibt es.
+Optionen für diese Transkriptzeile
+0068	AS	Ah, I think that ((…))
+Optionen für diese Transkriptzeile
+0069	MC	Ja ((…))
+Optionen für diese Transkriptzeile
+0070	AS	((???))
+Optionen für diese Transkriptzeile
+0071	KL	und äh ((…)) die Person die laufen in die Straße äh, hier 'rum sieht man.
+Optionen für diese Transkriptzeile
+0072	MC	Äh, was sehen Sie da mitten auf der Straße, was, nur, nur cars, oder noch irgendwie ((…))? Was, was äh, was, was ist meistens in einer großen Stadt zu sehen?
+Optionen für diese Transkriptzeile
+0073	KL	In die Straße meinst Sie? Da is' meisten cars und äh ((…)) ein truck seh ich hier und eine Bus.
+Optionen für diese Transkriptzeile
+0074	MC	Dankeschön. Ähm, wie hat sich diese Gegend hier in den letzten Jahren verändert? Äh, bemerken Sie einen Unterschied zwischen der Gegend hier heutzutage und als Sie ein Junge waren?
+Optionen für diese Transkriptzeile
+0075	KL	Well, wenn ich ein Junge war, da taten die Leute früher meistens äh ((…)) 'rum mit 'Ferd und Buggy 'rum fahren. Und- denn kamen die erste cars an und wo heutzutage sieht man jetzt keine Buggys nicht mehr. Und die car, die tun sich alle verändern. Die ersten die war'n so altmodisch und jetzt, so, da sind sie so äh ((…)) ähm ((…)) Und ähm, da sieht man alle die Farmer hier die früher taten se ((…)) ((???)) ((…)) taten se mit Pferde, die Farm arbeiten und äh ((…)) heutzutage is' alles tractors und äh ((…)) you know ((…)) große Maschin', daß alle, alle die Reinmaschin' taten se früher, dann die stripper herstrippen und da mussten se das durch a Winnower nehm'- das heut' wird alles in eine process gemacht.
+Optionen für diese Transkriptzeile
+0076	MC	Und äh, wie ((…)) Glauben Sie, dass die Leute heutzutage besser dran sind als damals?
+Optionen für diese Transkriptzeile
+0077	KL	Well äh ((…)) ich denke nich' die äh ((…)) hab'n alles, das geht so flink mit die tractors und so, aber je- es äh ((…)) die ha'm auch keine übrige Zeit die früher muss' alles mit Pferde machen und es nimmt länger und die taten auch fertig werden.
+Optionen für diese Transkriptzeile
+0078	MC	Ja, aber, aber finden Sie, dass die viel ähm, viel freie Zeit haben um, um etwas, um die, um das Haus zu machen und alles?
+Optionen für diese Transkriptzeile
+0079	KL	Well, ich denke die haben ein bissel mehr Zeit wie se äh ((…)) erst hatten. Wenn die alles mit dies machinery, das muss doch flinker geh'n, wie's tat zuvor.
+Optionen für diese Transkriptzeile
+0080	MC	Ja, fahren Sie oft in Adelaide und- zum Beispiel?
+Optionen für diese Transkriptzeile
+0081	KL	Äh, ob wir runter fahren meint ihr?
+Optionen für diese Transkriptzeile
+0082	MC	Äh, nein ähm, ((???)) und die Familie?
+Optionen für diese Transkriptzeile
+0083	KL	Well wir waren ja da 'ne Woche und haben wir die ((…)) ich bin jetzt an Feiertage von die Arbeit und da war'n über die See 'runter gefahr'n mit die Kindern, und dann war'n wir durch Adelaide gekommen und ((…)) bissel äh ((…)) spazieren fahren.
+Optionen für diese Transkriptzeile
+0084	MC	Können Sie uns vielleicht dieses Bild noch beschreiben?
+Optionen für diese Transkriptzeile
+0085	KL	Äh, das wär Bild, das is' hier bei die See äh ((…)) sieht man die Leut' hier die ((…)) in die Sand 'rumliegen mit ihre ((…)) dies is' äh ((…)) die See sieht man, die kleine Schiffe 'rum.
+Optionen für diese Transkriptzeile
+0086	MC	Fahren Sie auch oft dorthin in den Ferien? Fahren Sie auch oft an die See in den Ferien?
+Optionen für diese Transkriptzeile
+0087	KL	Oh, wir fahren nich' sehr oft ((…)) weil wir gewöhnlich einmal das Jahr in Sommer.
+Optionen für diese Transkriptzeile
+0088	MC	Äh, was kann man hier machen im Sommer, hier in äh, in dieser Gegend in äh ((…)) hier herum ((???))? Was äh- Wie kann man sich in den Ferien unterhalten oder erholen oder was immer Sie sagen möchten, wie ähm-?
+Optionen für diese Transkriptzeile
+0089	KL	Well, hier draußen, well hier ist nicht sehr viel zum Unterhalten. Es is' bloß ein kleiner township, das äh ((…)) post office und 'ne Schul- Schule is' hier, aber ((…)) well, heutzutage wo es television ist, da sind se meistens äh ((…)) äh ((…)) dazu gucken und das.
+Optionen für diese Transkriptzeile
+0090	MC	Was für Filme sehen Sie auf television zum Beispiel?
+Optionen für diese Transkriptzeile
+0091	KL	Oh, wir suchen ((…)) tun se so 'ne ((…)) quiz program da zugucken und äh ((…)) und ((…)) serial, die se manchmal haben, aber es is' äh ((…)) wrestling tun ich wenig zugucken, das ((…)) like ich sehr gerne. Und die Kinder tun ihre ((…)) suchen was sie liken, ihre cartoons und so.
+Optionen für diese Transkriptzeile
+0092	MC	Und äh, finden Sie, dass das television eine gute Sache ist?
+Optionen für diese Transkriptzeile
+0093	KL	Well, ich bin ((…))? ((…)) Es tut die Kinder verderben. Wir tun se- Wir tun gewöhnlich ufpasse, daß se nicht zu ((…)) dürfen zu gucken was nich' ähm ((…)) gut für se ist, aber ((…)) ich mach' ((…)) ich denk' es macht die Kinder ein bissel faul, die tun nicht so viel machen sonst.
+Optionen für diese Transkriptzeile
+0094	MC	Aber wenn, wenn es kein television gäbe, vielleicht würden da jetzt was anderes ((…))?
+Optionen für diese Transkriptzeile
+0095	KL	Ja ((…)) es war ((…)) wenn se nicht das zugucken täten sie vielleicht was anderes machen.
+Optionen für diese Transkriptzeile
+0096	MC	Finden Sie, dass die Leute genug äh, draußen sind? Dass vielleicht das television sie zu viel innerhalb des Hauses hält?
+Optionen für diese Transkriptzeile
+0097	KL	Well, wenn man draußen arbeiten tut, da ich denk' is' es ganz gut dann abend kann man ein bissel zugucken da ((…)) die was da heran zugeht in die Welt auf die news und so ((…)) so ((…)) wireless da kann man was hören und so aber television kann man sehen wo es äh ((…)) was da actually heran zugeht.
+Optionen für diese Transkriptzeile
+0098	MC	Ja, aber vielleicht ähm, liest man nicht so viel, wenn man televi- television ansehen will?
+Optionen für diese Transkriptzeile
+0099	KL	Ja, das is' right ((…)) wir taten aber die Zeitung einerseits kriegen und wo es television zuguckt da well tat die Zeitung ((???)) nicht gelesen werden, you see.
+Optionen für diese Transkriptzeile
+0100	MC	Lesen Sie deutsch?
+Optionen für diese Transkriptzeile
+0101	KL	No, ich kann nicht deutsch lesen. Ich kann auch nicht ((…)) kann auch nicht deutsch schreiben. 's is' g'rade was ich hab ufgehoben von meinen Eltern, was ich hab' gelernt das.
+Optionen für diese Transkriptzeile
+0102	MC	Aber Sie haben nicht, es nicht in die, in die Schule ((…))?
+Optionen für diese Transkriptzeile
+0103	KL	No, no. Wir 'a' englische Schule.
+Optionen für diese Transkriptzeile
+0104	MC	Sind Sie hier in der Gegend in die Schule gegangen?
+Optionen für diese Transkriptzeile
+0105	KL	Ja, ich war in Moculta gegang- äh, in die Schule gegangen.
+Optionen für diese Transkriptzeile
+0106	MC	Ist das eine große Schule?
+Optionen für diese Transkriptzeile
+0107	KL	Oh, wo ich da in die Schule ging, da war ungefähr fufzig. Und jetzt, well, da sind unter zwanzig.
+Optionen für diese Transkriptzeile
+0108	MC	Wieso ist das ((???))?
+Optionen für diese Transkriptzeile
+0109	KL	Well äh, die äh Familien sind nicht jetzt so groß, und denn es sind ganz paar Familien fortgegangen. Und haben and're Leute, die äh ((…)) die Farm gekauft or (weit weg?) die haben keine Kinder nicht. Und äh ((…)) es ((…))
+Optionen für diese Transkriptzeile
+0110	MC	Ja, das ist wahr, die, die Familie sind nicht so, so groß ((…))
+Optionen für diese Transkriptzeile
+0111	KL	No, no.
+Optionen für diese Transkriptzeile
+0112	MC	Well yeah ((…)) Wie- Wieviele Kinder haben Ihr El- Eltern gehabt?
+Optionen für diese Transkriptzeile
+0113	KL	Äh, in mein Familie waren drei Kinder.
+Optionen für diese Transkriptzeile
+0114	MC	Oh, das ist nicht so viel, ja.
+Optionen für diese Transkriptzeile
+0115	KL	Aber welche haben up to- haben so zehn, zwölf Kinder, das äh ((…))
+Optionen für diese Transkriptzeile
+0116	MC	Sehen Sie Ihre Geschwister oft?
+Optionen für diese Transkriptzeile
+0117	KL	Ja, wir tun äh ((…)) oh ((…)) ungefähr alle paar Monate, wenn se nicht herufkommen, könn' wir se besuchen oder so.
+Optionen für diese Transkriptzeile
+0118	MC	Und ähm, zu Hause haben Sie meistens deutsch gesprochen, Sie haben nicht englisch-?
+Optionen für diese Transkriptzeile
+0119	KL	Ja, wo ich ein Kind war, taten wir meistens deutsch sprechen, denn ist es halt endlich so gekommen, taten wir denn meistens englisch sprechen.
+Optionen für diese Transkriptzeile
+0120	MC	Und wenn Sie mit Nachbarn zum Beispiel zusammenkommen, sprechen Sie deutsch oder englisch?
+Optionen für diese Transkriptzeile
+0121	KL	Ja äh- Du meinst heutzutage? Oh, heutzutage tun wir meistens englisch sprechen.
+Optionen für diese Transkriptzeile
+0122	MC	Mit wem sprechen Sie denn deutsch?
+Optionen für diese Transkriptzeile
+0123	KL	Well, wir tu- manchmal tut man mit Leut' sprachen, aber mit welche, die noch könn' deutsch sprechen, aber is ((…)) meistens ist jetzt englisch.
+Optionen für diese Transkriptzeile
+0124	MC	Die ((…)) haben Sie mit den- irgendeine Neu- Australier deutsch gesprochen, oder ((…))?
+Optionen für diese Transkriptzeile
+0125	KL	Well, hierum sind g'rade nicht sehr viel Neu- Australier aber ich hab' schon mit ihnen deutsch gesprochen.
+Optionen für diese Transkriptzeile
+0126	MC	Also, ist da noch ((…))? ((???)) ((???)) vielleicht müssen mir ((…)) ((???)) Ja, ja.
+Optionen für diese Transkriptzeile
+0127	AS	Bitte?
+Optionen für diese Transkriptzeile
+0128	MC	Ja, Sie müssen mit äh wie heißen Sie, Herr ((…))?
+Optionen für diese Transkriptzeile
+0129	KL	Herr Lange, ja.
+Optionen für diese Transkriptzeile
+0130	AS	Lange
+Optionen für diese Transkriptzeile
+0131	MC	Lange. Äh, Sie müssen mit Herrn Lange Deutsch sprechen. Auf Deutsch ein paar Fragen stellen oder so.
+Optionen für diese Transkriptzeile
+0132	AS	Ja? ((???))
+Optionen für diese Transkriptzeile
+0133	MC	Oh ja, der kann sehr fließend Deutsch.
+Optionen für diese Transkriptzeile
+0134	AS	Oh, ist ja gut.
+Optionen für diese Transkriptzeile
+0135	MC	Ja. Aber wir, wenn Sie auch deutsch sprechen können und, und äh zusammen, vielleicht ((…)) was können wir, worüber können Sie spr- Sprechen Sie jetzt etwas über die Vergangen- über irgendeinen Freund, gemeinsamen Freund oder Bekannten oder so.
+Optionen für diese Transkriptzeile
+0136	AS	Wir sollen jetzt sprechen zusammen?
+Optionen für diese Transkriptzeile
+0137	MC	Ja, ja.
+Optionen für diese Transkriptzeile
+0138	AS	((???))
+Optionen für diese Transkriptzeile
+0139	MC	Über irgendeinen, vielleicht über die äh, über die Leute die früher hier waren oder gemeinsame Freunde oder irgendetwas.
+Optionen für diese Transkriptzeile
+0140	AS	Oh, we, we'll talk something else. Nächsten Sonntag haben wir Konferenz. Wirst du da sein?
+Optionen für diese Transkriptzeile
+0141	KL	Ja, ich werde da sein, ja.
+Optionen für diese Transkriptzeile
+0142	AS	Sehr gut. Haben Sie 'n Punkt, den Sie woll'n vorbring'?
+Optionen für diese Transkriptzeile
+0143	KL	Oh, ich denke nicht. Ich denke ((…)) 's bei mir 's alles all right, ich hab' nichts zu vorbring'.
+Optionen für diese Transkriptzeile
+0144	AS	Das zeigt das einer zufrieden ist. Die sollten alle so sein!
+Optionen für diese Transkriptzeile
+0145	MC	Was ist das, ein Kirchenkomitee?
+Optionen für diese Transkriptzeile
+0146	AS	Ja ja. Hoffentlich is' nicht so heiß, sonst müss ma's drinnen etwas heiß machen!
+Optionen für diese Transkriptzeile
+0147	MC	Äh, Herr Lange spricht das alte Schlesisch, glaub' ich.
+Optionen für diese Transkriptzeile
+0148	AS	I have an idea that they could be of the same region as our old people, all that shipload ((…))
+Optionen für diese Transkriptzeile
+0149	MC	But he spreaks more Sile- Silesian than you do.
+Optionen für diese Transkriptzeile
+0150	AS	That could be possible. Yes. Yes, there would be a difference there now. You've never had any schooling at all, and I did have a little bit of schooling you see. That makes a difference, too.
+Optionen für diese Transkriptzeile
+0151	KL	Maybe- äh, habt ihr's angeswitcht?
+Optionen für diese Transkriptzeile
+0152	MC	Bitte?
+Optionen für diese Transkriptzeile
+0153	KL	Is' es noch angeswitcht?
+Optionen für diese Transkriptzeile
+0154	MC	Noch angeswitcht, ja.
+Optionen für diese Transkriptzeile
+0155	AS	Oh.
+Optionen für diese Transkriptzeile
+0156	MC	Ja. ja. Aber es, es wird gleich abgeswitcht.
+Optionen für diese Transkriptzeile
+0157	AS	Äh, we have to ((…)) shorten it. Otherwise we won't make it by five.
