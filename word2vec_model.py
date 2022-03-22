@@ -5,13 +5,13 @@ from nltk.corpus import stopwords
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from gensim.models import Word2Vec
-from gensim.utils import simple_preprocess
 from sklearn.metrics import classification_report, ConfusionMatrixDisplay
 from sklearn import svm
 import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 import pathlib
 import get_data
+import nltk
 
 
 def createword2VecModel(df):
@@ -19,8 +19,7 @@ def createword2VecModel(df):
     start = time.time()
     word2vec_model_file = str(pathlib.Path(__file__).parent) + r'\word2vec_' + '.model'  # Creates model file
     df['Tokenized_text'] = df['Text'].apply(stop_word_removal)
-    df['Tokenized_text'] = [simple_preprocess(line, deacc=True) for line in
-                            df['Tokenized_text']]  # Lowercases and tokenizes
+    df['Tokenized_text'] = [[nltk.word_tokenize(line)] for line in df['Tokenized_text']]  # Tokenizes
     X_train, X_test, y_train, y_test = splitdataWord2Vec(df)
     tokenized_text = pd.Series(df['Tokenized_text']).values
     model = Word2Vec(tokenized_text, min_count=1, vector_size=1000, workers=3, window=3, sg=1)  # creates w2v model
