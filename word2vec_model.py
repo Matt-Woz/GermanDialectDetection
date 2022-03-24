@@ -19,7 +19,7 @@ def createword2VecModel(df):
     start = time.time()
     word2vec_model_file = str(pathlib.Path(__file__).parent) + r'\word2vec_' + '.model'  # Creates model file
     df['Tokenized_text'] = df['Text'].apply(stop_word_removal)
-    df['Tokenized_text'] = [[nltk.word_tokenize(line)] for line in df['Tokenized_text']]  # Tokenizes
+    df['Tokenized_text'] = [nltk.word_tokenize(line) for line in df['Tokenized_text']]  # Tokenizes
     X_train, X_test, y_train, y_test = splitdataWord2Vec(df)
     tokenized_text = pd.Series(df['Tokenized_text']).values
     model = Word2Vec(tokenized_text, min_count=1, vector_size=1000, workers=3, window=3, sg=1)  # creates w2v model
